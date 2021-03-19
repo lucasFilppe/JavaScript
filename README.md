@@ -1,5 +1,5 @@
 # JavaScript
-## What did I do?
+## What did i learn?
 -Types of data<br>
 -Variables<br>
 -Functions<br>
